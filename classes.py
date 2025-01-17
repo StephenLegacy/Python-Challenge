@@ -15,7 +15,8 @@ class car:
         self.horsepower = hp  # Assigning `hp` to the instance attribute `horsepower`
         self.model = model   
         self.brand = brand    
-        self.year = year      
+        self.year = year  
+        self.date = date
 
     # Defining a method to return information about the car
     # This is an instance method because it works on an instance of the class
@@ -27,6 +28,7 @@ class car:
 # Creating instances (objects) of the `car` class
 car1 = car(855, "AudiGT", "AUDI", 2024)  
 car2 = car(478, "AudiGT", "AUDI", 2025)  
+car3 = car(458, "AudiGT", "AUDI", 2023) 
 
 # Printing information about the cars using the `info()` method
 print(car1.info()) 
