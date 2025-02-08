@@ -15,6 +15,6 @@ Welcome to my **Python Learning Repository**, where I explore **core concepts, o
 This repository is a **learning hub** for Python, focusing on **clean coding practices, structured programming, and problem-solving**.  
 
 ## 💡 **How to Use**  
-Clone the repo, explore the scripts, and modify them for **practice and experimentation**. Contributions and improvements are welcome!  
+Clone the repo, explore the scripts, and modify them for **practice and experimentation**. Contributions and improvements are highly welcome, This is a learning process.
 
 📌 **GitHub**: [StephenLegacy](https://github.com/StephenLegacy) 🚀
