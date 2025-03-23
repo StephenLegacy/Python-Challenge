@@ -8,7 +8,7 @@ def calculate():
     except Exception:
         result.set("Error")
 
-# Add characters to the expression
+# Add characters to the expression for calculator
 def press(key):
     expression.set(expression.get() + str(key))
 
