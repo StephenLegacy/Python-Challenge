@@ -2,7 +2,7 @@
 
 *StephenLegacy*
 
-Welcome to my **Python Learning Repository**, where I explore **core concepts, object-oriented programming, and error handling** through practical examples and organized scripts. 🚀  
+Welcome to my **Python Learning Repository - partly powered by Power Learn Project**, where I explore **core concepts, object-oriented programming, and error handling** through practical examples and organized scripts. 🚀  
 
 ## 📂 **Repository Contents**  
 
