@@ -11,7 +11,8 @@ Welcome to my **Python Learning Repository - partly powered by Power Learn Proje
 - **functions.py** – Covers **functions, arguments, and return values**.  
 - **errors.py** – Showcases **error handling and exception management**.
 - **calculator.py** – Power Learn Project **Assignment**.
-- **lists.py** – Power Learn Project **Assignment**.  
+- **lists.py** – Power Learn Project **Assignment**.
+- **discount.py** – Power Learn Project week 3 Python**Assignment**.  
 
 ## 🎯 **Purpose**  
 This repository is a **learning hub** for Python begiinings, focusing on **clean coding practices, structured programming, and problem-solving**.  
