@@ -10,9 +10,10 @@ Welcome to my **Python Learning Repository - partly powered by Power Learn Proje
 - **classes.py** – Demonstrates **Python classes, OOP principles, and inheritance**.  
 - **functions.py** – Covers **functions, arguments, and return values**.  
 - **errors.py** – Showcases **error handling and exception management**.
-- **calculator.py** – Power Learn Project **Assignment**.
-- **lists.py** – Power Learn Project **Assignment**.
-- **discount.py** – Power Learn Project week 3 Python**Assignment**.  
+- **calculator.py** – Power Learn Project week 1 Python **Assignment**.
+- **lists.py** – Power Learn Project week 2 Python **Assignment**.
+- **discount.py** – Power Learn Project week 3 Python **Assignment**.
+- **fileHandler.py** – Power Learn Project week 4 Python **Assignment**.  
 
 ## 🎯 **Purpose**  
 This repository is a **learning hub** for Python begiinings, focusing on **clean coding practices, structured programming, and problem-solving**.  
