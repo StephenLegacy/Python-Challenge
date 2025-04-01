@@ -14,7 +14,7 @@ Welcome to my **Python Learning Repository - partly powered by Power Learn Proje
 - **lists.py** – Power Learn Project week 2 Python **Assignment**.
 - **discount.py** – Power Learn Project week 3 Python **Assignment**.
 - **fileHandler.py** – Power Learn Project week 4 Python **Assignment**.
-- **fileHandler.py** – Power Learn Project week 3 DATABASE == Python **Assignment**.  
+- **readAndManage.py** – Power Learn Project week 3 DATABASE == Python **Assignment**.  
 
 ## 🎯 **Purpose**  
 This repository is a **learning hub** for Python begiinings, focusing on **clean coding practices, structured programming, and problem-solving**.  
