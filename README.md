@@ -16,6 +16,7 @@ Welcome to my **Python Learning Repository - partly powered by Power Learn Proje
 - **fileHandler.py** – Power Learn Project week 4 Python **Assignment**.
 - **readAndManage.py** – Power Learn Project week 3 DATABASE == Python **Assignment**.
 - **weatherApp.py** – KEEP THE BUILDING SPIRIT == Python **JAMS**.  
+- **myworld.py** – Power Learn Project Week 5 Python || Classes & OOP **Assignment**.
 
 ## 🎯 **Purpose**  
 This repository is a **learning hub** for Python begiinings, focusing on **clean coding practices, structured programming, and problem-solving**.  
